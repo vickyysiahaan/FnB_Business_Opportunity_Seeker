@@ -1,9 +1,9 @@
-Neighborhood;Region;Longtiude;Latitude
+Neighborhood;Region;Longitude;Latitude
 Cempaka Putih;Jakarta Pusat;106.868;-6.1827
 Gambir;Jakarta Pusat;106.8148;-6.1703
 Johar Baru;Jakarta Pusat;106.8577;-6.1868
 Kemayoran;Jakarta Pusat;106.8473;-6.1604
-Menteng;Jakarta Pusat;106.8326;-6.1940
+Menteng;Jakarta Pusat;106.8326;-6.194
 Sawah Besar;Jakarta Pusat;106.8326;-6.1532
 Senen;Jakarta Pusat;106.8503;-6.1935
 Tanah Abang;Jakarta Pusat;106.8119;-6.2024
@@ -29,14 +29,14 @@ Kebayoran Baru;Jakarta Selatan;106.8001;-6.2436
 Kebayoran Lama;Jakarta Selatan;106.7765;-6.2444
 Mampang Prapatan;Jakarta Selatan;106.8208;-6.2506
 Pancoran;Jakarta Selatan;106.8473;-6.2523
-Pasar Minggu;Jakarta Selatan;106.8237;-6.2940
+Pasar Minggu;Jakarta Selatan;106.8237;-6.294
 Pesanggrahan;Jakarta Selatan;106.7618;-6.2474
 Setiabudi;Jakarta Selatan;106.8326;-6.2196
 Tebet;Jakarta Selatan;106.8473;-6.2319
 Cengkareng;Jakarta Barat;106.7353;-6.1487
 Grogol Petamburan;Jakarta Barat;106.7883;-6.1623
 Taman Sari;Jakarta Barat;106.8208;-6.1485
-Tambora;Jakarta Barat;106.8031;-6.1490
+Tambora;Jakarta Barat;106.8031;-6.149
 Kebon Jeruk;Jakarta Barat;106.7647;-6.1835
 Kalideres;Jakarta Barat;106.7058;-6.1343
 Palmerah;Jakarta Barat;106.7972;-6.1901
